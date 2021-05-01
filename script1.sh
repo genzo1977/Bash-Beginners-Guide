@@ -9,4 +9,5 @@ w
 echo  echo "I'm setting twc variables new." 
 COLOUR="black"
 VALUE="9"
-echo “This is a string: $CDLOUR“  echo “and this is a number: $vELUE“  echo  echo "I'm giving ycu back ycur prompt new.“ echo
+echo "This is a string: $COLOUR"
+echo “and this is a number: $vELUE“  echo  echo "I'm giving ycu back ycur prompt new.“ echo
