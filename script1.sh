@@ -1,13 +1,19 @@
-#!bin/bash
+#!/bin/bash
 clear
-echo “The script starts now.“ 
-echo "Hi, $USER!“ 
+echo "The script starts now."
+echo "Hi, $USER!"
 echo
-echo “I will new fetch yen a list cf connected users:"
+echo "I will now fetch you a list of connected users:"
 echo
 w
-echo  echo "I'm setting twc variables new." 
+echo
+
+echo "I'm setting two variables now." 
 COLOUR="black"
 VALUE="9"
 echo "This is a string: $COLOUR"
-echo “and this is a number: $vELUE“  echo  echo "I'm giving ycu back ycur prompt new.“ echo
+echo "And this is a number $VALUE"
+echo
+
+echo "I'm giving you back your prompt now"
+echo
